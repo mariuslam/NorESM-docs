@@ -37,7 +37,7 @@ example, write
 Running with offline aerosol interaction
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In order to limit the number of compsets there are (at present) no
+ order to limit the number of compsets there are (at present) no
 compsets available for automatically setting up the model in offline
 mode (i.e., the meteorology is forced by aerosol optics and CDNC from
 CAM4 instead of CAM4-Oslo) or for taking out extra AeroCom diagnostics,
