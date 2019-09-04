@@ -3,7 +3,7 @@
 Advanced configuration (NorESM1)
 =================================                                
 
-Understanding compsets
+Understanding cpsets
 ~~~~~~~~~~~~~~~~~~~~~~
 
 A compset is a collection of configuration parameters which describe a
